@@ -23,4 +23,12 @@
     <ProjectReference Include="..\..\..\DemoApp.SharedKernel\DemoApp.SharedKernel.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Business\Commands\" />
+    <Folder Include="Business\Handlers\" />
+    <Folder Include="Business\Queries\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
 </Project>
