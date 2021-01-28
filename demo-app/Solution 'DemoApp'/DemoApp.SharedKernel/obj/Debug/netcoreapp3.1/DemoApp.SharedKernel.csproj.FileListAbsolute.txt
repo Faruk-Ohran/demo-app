@@ -1,0 +1,12 @@
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\bin\Debug\netcoreapp3.1\DemoApp.SharedKernel.deps.json
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\bin\Debug\netcoreapp3.1\DemoApp.SharedKernel.runtimeconfig.json
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\bin\Debug\netcoreapp3.1\DemoApp.SharedKernel.runtimeconfig.dev.json
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\bin\Debug\netcoreapp3.1\DemoApp.SharedKernel.dll
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\bin\Debug\netcoreapp3.1\DemoApp.SharedKernel.pdb
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\obj\Debug\netcoreapp3.1\DemoApp.SharedKernel.csprojAssemblyReference.cache
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\obj\Debug\netcoreapp3.1\DemoApp.SharedKernel.AssemblyInfoInputs.cache
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\obj\Debug\netcoreapp3.1\DemoApp.SharedKernel.AssemblyInfo.cs
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\obj\Debug\netcoreapp3.1\DemoApp.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\obj\Debug\netcoreapp3.1\DemoApp.SharedKernel.dll
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\obj\Debug\netcoreapp3.1\DemoApp.SharedKernel.pdb
+D:\Projekti\demo-app\Solution 'DemoApp'\DemoApp.SharedKernel\obj\Debug\netcoreapp3.1\DemoApp.SharedKernel.genruntimeconfig.cache
