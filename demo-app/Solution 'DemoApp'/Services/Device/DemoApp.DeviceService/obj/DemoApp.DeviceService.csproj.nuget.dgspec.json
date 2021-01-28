@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj": {}
+    "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj": {}
   },
   "projects": {
-    "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj": {
+    "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj",
+        "projectUniqueName": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj",
         "projectName": "DemoApp.SharedKernel",
-        "projectPath": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj",
+        "projectPath": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\FarukOhran\\.nuget\\packages\\",
-        "outputPath": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\obj\\",
+        "outputPath": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FarukOhran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj": {
+    "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj",
+        "projectUniqueName": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj",
         "projectName": "DemoApp.DeviceService",
-        "projectPath": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj",
+        "projectPath": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\DemoApp.DeviceService.csproj",
         "packagesPath": "C:\\Users\\FarukOhran\\.nuget\\packages\\",
-        "outputPath": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\obj\\",
+        "outputPath": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\Services\\Device\\DemoApp.DeviceService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FarukOhran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj": {
-                "projectPath": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj"
+              "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj": {
+                "projectPath": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj"
               }
             }
           }

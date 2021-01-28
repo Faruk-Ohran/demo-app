@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbDGA8Fn+rSql3ZZF4zDz/ufG/Q0NsIyY363HWjGpAxliizWJWBrqyEAEBjX8bnC65FQWalw+jIHcBGzy/E10w==",
+  "dgSpecHash": "lPe56PGlmu/A5MppjPTW/aO6e+eRHzmTpOdP4xpcTKJxANY/gHhqjM/R4YP4EdjL22hivUnooBLn9g5peMapjA==",
   "success": true,
-  "projectFilePath": "D:\\Projekti\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj",
+  "projectFilePath": "D:\\Projekti\\DemoApp\\demo-app\\demo-app\\Solution 'DemoApp'\\DemoApp.SharedKernel\\DemoApp.SharedKernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FarukOhran\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\FarukOhran\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
