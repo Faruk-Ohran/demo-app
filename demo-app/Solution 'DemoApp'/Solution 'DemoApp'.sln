@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApp.UserService", "Serv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApp.DeviceService", "Services\Device\DemoApp.DeviceService\DemoApp.DeviceService.csproj", "{C8AEF876-AE9F-4799-8306-3B85B3DCD0F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp.SharedKernel", "DemoApp.SharedKernel\DemoApp.SharedKernel.csproj", "{0AEE4E7F-6FEE-4209-B2AB-21B540D19B65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApp.SharedKernel", "DemoApp.SharedKernel\DemoApp.SharedKernel.csproj", "{0AEE4E7F-6FEE-4209-B2AB-21B540D19B65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
